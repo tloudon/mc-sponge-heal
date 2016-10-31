@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/heal.iml" filepath="$PROJECT_DIR$/.idea/modules/heal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/heal_main.iml" filepath="$PROJECT_DIR$/.idea/modules/heal_main.iml" group="heal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/heal_test.iml" filepath="$PROJECT_DIR$/.idea/modules/heal_test.iml" group="heal" />
+    </modules>
+  </component>
+</project>

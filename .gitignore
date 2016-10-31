@@ -1,0 +1,10 @@
+
+# ignore user-specific files
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+# Gradle
+.gradle
+.idea/gradle.xml
+.idea/libraries
+
+build/*
